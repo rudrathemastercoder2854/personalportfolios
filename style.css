@@ -1,0 +1,118 @@
+.cointianer{
+   background-image:url("fathers_stuff-wallpaper-1280x800.jpg");
+   background-color: rgba(0,0,0,0.9);
+   background-blend-mode: darken;
+}
+.logo{
+   width:100px;
+}
+.menubar ul li a{
+   color:white;
+   text-decoration: none;
+   padding: 10px;
+   font-size:20px;
+}
+.menubar ul li{
+display: inline-block;
+margin: 10px;
+} 
+.menubar ul li a:hover{
+border-bottom:2px solid aqua;
+color:aqua;
+}
+.menubar ul{
+margin-left:600px;
+margin-top:-50px;
+}
+.welcomes{
+color:white;
+font-size: 40px;
+}
+.Portfolios{
+color:aqua;
+font-size: 40px;
+}
+.welcome{
+margin-top: 100px;
+}
+.para{
+ color:white;
+ font-size: 17px;
+}
+.btncon{
+color:black;
+background-color: aqua;
+padding: 10px;
+border: 0;
+border-radius: 5px;
+}
+.btncon:hover{
+background-color: white;
+color:black;
+}
+#myimg{
+margin-left: 800px;
+margin-top:-350px;
+}
+.para1{
+font-size: 20px;
+margin-left: 600px;
+margin-top:-350px;
+}
+.aboutbtn{
+    color:black;
+    background-color: aqua;
+    padding: 10px;
+    border: 0;
+    border-radius: 5px;
+    margin-left: 600px;
+}
+.aboutbtn:hover{
+    background-color: white;
+    color:black;
+    }
+    .download{
+        color:black;
+        background-color: aqua;
+        padding: 10px;
+        border: 0;
+        border-radius: 5px;
+        width:100px;
+    }
+    .download:hover{
+        background-color: white;
+        color:black;
+        }
+        .textone{
+        width:300px;
+        height:40px;
+        margin-top: -10px;
+        }
+        .texttwo{
+            width:300px;
+            height:40px;
+            margin-top: -10px;
+            } .textthree{
+                width:300px;
+                height:40px;
+                margin-top: -10px;
+                }
+                .btnsubmit{
+                    color:black;
+                    background-color: aqua;
+                    padding: 10px;
+                    border: 0;
+                    border-radius: 5px;
+                    width:100px;
+                }
+                .btnsubmit:hover{
+                    background-color: white;
+                    color:black;
+                    }
+    .form{
+    background-color: rgba(0,0,0,0.9);
+    width:500px;
+    padding: 40px;
+    height:400px;
+    padding-top: 150px;
+    }
